@@ -8,6 +8,9 @@
 - [License](#license)
 
 ## Configuration
+## updates
+docs: update 51
+
 
 
 | Option | Type | Default | Description |
