@@ -8,7 +8,7 @@
 - [License](#license)
 
 ## Configuration
-## updates
+## update
 docs: update 51
 docs: update 52
 docs: update 53
@@ -28,9 +28,8 @@ docs: update 66
 docs: update 67
 docs: update 68
 docs: update 69
-
-
-
+docs: update 70
+Co-authored-by: dk5847001-stack <dk5847001@gmail.com>
 
 | Option | Type | Default | Description |
 |--------|------|---------|-------------|
