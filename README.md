@@ -31,6 +31,7 @@ docs: update 68
 docs: update 69
 docs: update 70
 Co-authored-by: dk5847001-stack <dk5847001@gmail.com>
+docs: update 71
 
 | Option | Type | Default | Description |
 |--------|------|---------|-------------|
