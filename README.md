@@ -41,6 +41,7 @@ docs: update 73
 docs: update 74
 docs: update 75
 docs: update 76
+docs: update 77
 
 | Option | Type | Default | Description |
 |--------|------|---------|-------------|
